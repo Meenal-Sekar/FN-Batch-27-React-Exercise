@@ -1,0 +1,22 @@
+Hooks allow functions to have access to state
+ and other React features without using classes.
+
+
+ color  = green
+
+ color = blue
+
+
+ const[color,setColor]=useState("red")
+const[age,setAge]=useState(2)
+ const[name,setName]=useState("Brindha")
+
+ [statevariable,setFunciton to update statevariable]
+
+
+ setColor(blue)
+
+
+// it must be used in function componenet
+// top level of componenet
+// it cannot be conditional

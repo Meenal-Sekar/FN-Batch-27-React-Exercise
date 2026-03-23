@@ -1,0 +1,13 @@
+.card
+{
+    background-color: lightblue;
+    border:2px solid navy;
+    height: 200px;
+    width:300px
+}
+.card h2{
+    color:red;
+}
+.card p{
+    color:blue;
+}

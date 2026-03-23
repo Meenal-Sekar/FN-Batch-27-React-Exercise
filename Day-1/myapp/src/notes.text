@@ -1,0 +1,36 @@
+1. remove the code of app.jsx and app.css
+2. main.jsx  --> line 3 command (hide)
+
+
+
+how to connect css part in app.jsx
+import './App.css'
+
+html
+------
+no closing tag:
+
+input
+br
+img
+hr
+
+react
+----
+<input></input>
+
+<input/>
+<br/>
+
+
+
+Rules for component creation
+
+src
+First letter should be capital
+
+
+
+
+html--->class      react ----> className
+
