@@ -1,0 +1,4 @@
+When you open a parent path (like /), React Router will automatically show the route where index: true is set.
+
+When you go to / → it shows Home component (because of index: true)
+When you go to /users → it shows Users component
