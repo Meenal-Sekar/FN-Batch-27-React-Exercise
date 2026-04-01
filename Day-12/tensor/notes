@@ -1,0 +1,15 @@
+useState  --- State mangement  [name,setName]
+useEffect ---- API fetch,Dom update,timers  (it side effect of component)
+
+
+useEffect(()=>
+{
+
+},[])
+
+
+useRef  (Reference any file)
+
+import{useNavigate} from 'react-redux'
+
+navigate=useNavigate()
