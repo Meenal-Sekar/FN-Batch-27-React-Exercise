@@ -1,5 +1,5 @@
 import React from 'react'
-// import './App.css'
+import './App.css'
 import { useFormik } from "formik";
 import * as Yup from 'yup'
 const App = () => {
@@ -46,7 +46,7 @@ const formik = useFormik({
 
   return (
    <>
-     <div className="min-h-screen flex items-center justify-center bg-gray-100">
+     <div className="min-h-screen flex items-center justify-center bg-gray-300">
 
       <form onSubmit={formik.handleSubmit} className="bg-white p-8 rounded-2xl shadow-lg w-96">
 
